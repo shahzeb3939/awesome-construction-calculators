@@ -140,6 +140,14 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [HowMuchStuff](https://howmuchstuff.com) - 82 free construction calculators
 - [About HowMuchStuff](https://howmuchstuff.com/about) - Our approach and data sources
+- [All Links](https://linktr.ee/howmuchstuff) - HowMuchStuff link hub
+- [Material Estimation Guide](https://telegra.ph/How-to-Estimate-Construction-Materials-Before-Your-Next-DIY-Project-02-18) - How to estimate construction materials
+
+## Further Reading
+
+- [5 Material Calculation Mistakes That Cost Homeowners Thousands](https://medium.com/@dicktracey909/5-material-calculation-mistakes-that-cost-homeowners-thousands-54d95fbd9ce9) - Common estimation errors and how to avoid them
+- [The Math Behind Construction Calculators](https://howmuchstuff.hashnode.dev/the-math-behind-construction-calculators-how-material-estimation-actually-works) - How material estimation formulas actually work
+- [Why Most DIYers Buy 30% Too Much Material](https://www.tumblr.com/fountainofvastknowledge/808925364525088768/why-most-diyers-buy-30-too-much-material) - The real cost of guessing instead of calculating
 
 ## License
 
