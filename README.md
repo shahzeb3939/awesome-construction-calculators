@@ -26,6 +26,7 @@ Maintained by [HowMuchStuff](https://howmuchstuff.com) — free materials and qu
 Complete calculator suites covering multiple project types.
 
 - [HowMuchStuff](https://howmuchstuff.com) - 82 free calculators across 11 categories including concrete, landscaping, painting, flooring, roofing, and more. Instant results with local pricing.
+- [Estimatorly](https://estimatorly.com) - 34 free trade-material calculators (concrete, fence, deck, paint, landscaping) with cost ranges, show-the-math steps, and FAQs. No signup.
 - [Blueprint Calc](https://blueprintcalc.com) - 12 free home-improvement calculators that output a full materials shopping list with quantities and retailer links — paint, concrete, drywall, deck, mulch, tile, gravel, stone, roofing, asphalt, BTU/HVAC sizing, and window replacement cost. No signup, no email capture.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
